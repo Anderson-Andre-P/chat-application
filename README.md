@@ -15,8 +15,31 @@
   <img alt="Demo" title="#Demo" src="https://github.com/Anderson-Andre-P/chat-application/blob/main/Demo.png">
 </h2>
 
+
+### Features
+
+- [x] Aplicativo desenvolvido com ReactJs
+- [x] Desenvolvido utilizando a API <a href="https://chatengine.io/" target="_blank">Chat Engine</a>
+- [x] Permite criar mais de um Chat
+- [x] Permite criar Grupos
+- [x] Permite logar mais de um usuário
+- [x] Permite o envio de imagens
+- [ ] Permite a exclusão de mensagens
+- [x] Deploy
+
+### Como utilizar
 <p>
-  Além do ReactJs, a aplicação também utiliza a API <a href="https://chatengine.io/" target="_blank">Chat Engine</a> para facilitar a construção de serviços de chat.
+  Eu deixei criado três usuários para simular o chat, você pode utilizar os dados abaixo para logar no Chat.
+</p>
+
+| User  |  Password  |
+| :---: | :---: |
+|  andre |  123 |
+|  anderson |  123456 |
+|  leticia |  1234 |
+
+<p>
+  A aplicação funciona em qualquer navegador moderno.
 </p>
 
 
@@ -27,7 +50,6 @@
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFNJAFWZ2h5nA/profile-displayphoto-shrink_800_800/0/1606771778737?e=1629936000&v=beta&t=mh0jVEGG_fvkE16VwussiwgJdlbK9IkSGPIXMSPKstI" width="100px;" alt=""/>
  <br />
  <sub><b>Anderson André</b></sub></a> <a href="https://www.linkedin.com/in/anderson-andre-pereira/" title="LinkedIn">🚀</a>
-
 
 Elaborado por Anderson André 👋🏽 Entre em contato!
 
