@@ -1,71 +1,37 @@
-# Getting Started with Create React App
+<h1 align="center">
+  Projeto Clone Chat Teams utilizando ReactJs
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">
+   Website desenvolvido com o objetivo de me aperfeiçoar no desenvolvimento de aplicações com ReactJs.
+</h3>
 
-## Available Scripts
+<ul>
+  <li>Tutorial: <a href="https://www.youtube.com/watch?v=jcOKU9f86XE&t=16s" target="_blank">Link</a></li>
+  <li>Deploy: <a href="https://application-chat.netlify.app/" target="_blank">Link</a></li>
+</ul>
 
-In the project directory, you can run:
+<h2 align="center">
+  <img alt="Demo" title="#Demo" src="https://github.com/Anderson-Andre-P/chat-application/blob/main/Demo.png">
+</h2>
 
-### `yarn start`
+<p>
+  Além do ReactJs, a aplicação também utiliza a API <a href="https://chatengine.io/" target="_blank">Chat Engine</a> para facilitar a construção de serviços de chat.
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Autor
+---
 
-### `yarn test`
+<a href="https://www.linkedin.com/in/anderson-andre-pereira/">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFNJAFWZ2h5nA/profile-displayphoto-shrink_800_800/0/1606771778737?e=1629936000&v=beta&t=mh0jVEGG_fvkE16VwussiwgJdlbK9IkSGPIXMSPKstI" width="100px;" alt=""/>
+ <br />
+ <sub><b>Anderson André</b></sub></a> <a href="https://www.linkedin.com/in/anderson-andre-pereira/" title="LinkedIn">🚀</a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+Elaborado por Anderson André 👋🏽 Entre em contato!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# chat-application
+ <div> 
+  <a href = "mailto:andreandersoncaue.e@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anderson-andre-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
